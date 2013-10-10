@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An exploration of gestures and orientationchange events in HTML5"
+title: "Flip the phone, not the bird, with HTML5 gesture support"
 date: 2013-09-10 16:27
 comments: true
 categories: HTML5

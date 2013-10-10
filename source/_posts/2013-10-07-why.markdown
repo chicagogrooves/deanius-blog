@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Why, have you returned ?"
+date: 2013-10-07 07:59
+comments: true
+categories: ruby, why
+---
+
+Let me regale you with the tale of a programmer who saw the light. His name is ["Why, The Lucky Stiff"](http://en.wikipedia.org/wiki/Why_the_lucky_stiff). He knew that programming could be literate, humorous, even poignant. 
+
+!["Why graphic"](http://mislav.uniqpath.com/poignant-guide/images/about.the.poignant.guide-2.jpg)
+
+He saw programming as the liberator of the mind that it can be, as poetry, and sought to bring that to the world. He forsaw the Chunky Bacon movement and peppered his works liberally with those words. (No, really, to a ridiculous extent, he did)
+
+Why's seminal text, [Why's (poignant) guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html) has encouraged many a n00b to embark on a path to l33t mastery. Has turned programmers in "boring" languages into fans of dynamic expressive ones. Has turned people working in 'safe' (eg 'financially secure') companies into rebels who'll take time to program just for fun !
+
+He disappeared online (went John Galt?) in 2009 - quite uncommon for someone who speaks at conferences and has thousands of hits on his website.
+
+Whether his return occurs this year, or next - Why, you have been a great influence on many others including myself. While people I met introduced me to Ruby, it was your text that gave it almost a mythology. I used to say I had "a crush" on Ruby, and the desire to truly understand the "class << self" graphic was a huge part. I'd still be a programmer without you, but it's doubtful I'd have become the Mad Deanius that I have. So - Why, thanks ! As I go forth and teach others, your style will be with me !
