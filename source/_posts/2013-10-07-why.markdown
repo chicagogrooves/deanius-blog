@@ -8,7 +8,7 @@ categories: ruby, why
 
 Let me regale you with the tale of a programmer who saw the light. His name is ["Why, The Lucky Stiff"](http://en.wikipedia.org/wiki/Why_the_lucky_stiff). He knew that programming could be literate, humorous, even poignant. 
 
-!["Why graphic"](http://mislav.uniqpath.com/poignant-guide/images/about.the.poignant.guide-2.jpg)
+!["Why graphic"](/why-class-self.jpg)
 
 He saw programming as the liberator of the mind that it can be, as poetry, and sought to bring that to the world. He forsaw the Chunky Bacon movement and peppered his works liberally with those words. (No, really, to a ridiculous extent, he did)
 

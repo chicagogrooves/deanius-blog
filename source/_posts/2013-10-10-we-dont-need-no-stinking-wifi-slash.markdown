@@ -7,7 +7,11 @@ published: true
 categories: 
 ---
 
-So ladies and gentlemen, Meteor App #2 is online now, dubbed <a href="http://signmeup.meteor.com" target="_blank">SignMeUp</a>. 
+So ladies and gentlemen, Meteor App #2, an online/offline app that works with or without an internet connection, is online now, dubbed <a href="http://signmeup.meteor.com" target="_blank">SignMeUp</a>. 
+
+<div style="height: 290px; overflow: hidden; float:left; margin-right: 15px;">
+<img src="/images/nowifi.jpg"/>
+</div>
 
 The other day I was at the expo for a large sporting event, chatting up the various vendors in their booths, when one of them asked me if I'd like to sign up for their mailing list. I expressed my interest, he gestured toward an iPad in a nice stand with a sign-up web page. This is where it got embarassing for them. 
 
