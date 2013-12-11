@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Failure, in order to learn. Not failure to learn."
+date: 2013-11-25 11:31
+comments: true
+published: true
+categories: 
+---
+
+TL;DR - Failure contains valuable lessons, and feedback if you listen for them.
+
+Reentering the full-time workforce after a 6 month period of creative hiatus  and freelancing, I found the road less paved than ever. I chose the companies I applied to carefully, but faced multiple rejections. Was my sabbatical costing me jobs ? Had I passed my peak ? As a person who's often felt like the road just rolls out behind me, this was unsettling and doubt-raising. But I was determined to learn a lesson from this. It reminded me of once being cleaned out at a poker table. I said aloud "Well, I learned a lesson there". To which the winner, who was still stacking his winnings said "Yeah, a lesson is what you get when you don't get what you want". Here for posterity are my tales of rejections, hopefully not to be repeated !
+
+Company L was the first company who rejected me this year. They called very interested, phone calls led to a phone screen, and then an online coding session. I must have been ruled out quickly because I had trouble getting the interviewer to answer questions between all the emails he was writing which I could hear him typing. Since when is knowing the Java threading library a relevant interview to a Javascript/RoR position anyway ? Good riddance with that one. It was early - I wasn't worried yet, only a bit disappointed perhaps because I liked what the company did.
+
+Company D was the next casualty. I liked what they were about, had coffee with the owner, passed technical assessment and pair-programming, then was invited in for a multi-day on-site co-working/mutual evaluation arrangement, which I was told 'usually results in an offer'. I wanted it, although I questioned their hiring process: Why did they need 3 days ? How could they attract candidates that didn't have the time to do that ? (It turned out they'd never hired an 'outsider' before and so had no real process, but I digress..) Still, I was crushed to hear that "I was not a good culture fit". Really ? Glad I helped your company for free for 3 days, only to be told I lost it on 'style' aka 'culture fit'.
+
+After a day or two to process everything, and following up a couple of times, I knew that I had to redouble my efforts to find a place that was right for ME. Because after all, I told myself, if they don't like you enough, the chances are you'd have been unhappy there eventually. 
+
+With Company S I had several technical assessments and skype calls, eventually hearing that there did not seem to be 'enough alignment' with their needs and my skills. 
+
+Company B, told me there 'was hesitation' which was all I needed to hear. 
+
+Company N, I had a fascinating in-person interview which I'd looked forward to for weeks. The technical interviews were grueling and exciting. I was sure I'd land Company N. But the following day they informed me I had good instincts but remained a bit 'non-committal' in some of my answers. That was news to me.
+
+Later that day, Company G sends me the most impersonal rejection yet, not even a name on the letter. Fortunately the most important door was opening for me the following week.
+
+By this time, I had a really good pipeline going, and I already had an interview lined up with company O. I requested they move the interview date up because I was sure I'd be fielding multiple offers and wanted theirs on the table as well. Well it didn't go down that way, but in fact, for company O, I was a great fit. The interview felt better and less nerve-racking than the others, and I was offered a great job the day after the interview. Doubts lifted, faith was restored, and I was sure I'd be ok :)
+
+How do I see these 'failures' in light of the recent events ? For one, it was the Company D failure that lit a fire under my butt, and caused me to improve my search strategy. At that time I'd not had a 'pipeline' of discussions with various companies at various stages, I was relatively all-in with D and did not have another on the back-burner. This is not the best way to be. Surely spamming 1000 companies is not the best way either, but for many reasons, including the ability to emotionally deal with a rejection, it's better to have many potential opportunities in progress. 
+
+Also, it reminded me that interviewing is itself an art and skill, and the interviews I did later in the search certainly went better than the ones I did earlier. I had some dust to shake off before I hit my stride. 
+
+It also got me obsessed with the concept of Questions. "Have you got any questions for us?" was both the most worrisome and most exciting part of any interview, I probably geared more preparation toward being able to handle that part of the interview, than the technical parts. That is where you get to drive and assess fit from your perspective. It's uber-important to have lots of questions and to think them out before hand, since that transition from proving yourself, to asking them to prove themselves can be rough, and you need to be ready.
+
+So as you can see, failure can be a filter through which experiences that aren't the best for you get filtered out. Failure can be a sign that your own redundancy and coping mechanisms need some bolstering. Failure can provide motivation to do better next time. And failure can help you not take for granted what you do eventually achieve. A great thing to remember around this Thanksgiving time of year ! 
+
+(More to come soon on my adventures with Company O, aka Opinion Lab)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
