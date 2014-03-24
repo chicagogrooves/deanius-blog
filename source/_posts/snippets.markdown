@@ -1,0 +1,2 @@
+The Atlantic has [an article](http://www.theatlantic.com/magazine/archive/2013/11/the-great-forgetting/309516/) about a new breed of plane crash that's occurred more frequently in recent years. Pilots, when needing to switch between autopilot and manual, are causing crashes and people are dying. The transition from auto to manual and back, and the wisdom to know which to use at what time, is itself a skill that must be practiced, or it will not be there in a time of need.
+
