@@ -8,7 +8,7 @@ categories:
 
 Once upon a time in a far-away land, a team of knights were tasked with protecting the food supply of the kingdom by using a magical fence given to them by a very old and powerful wizard.
 
-The fence, all 4000 magical yards of it, would be used to enclose the farmland on which the food was grown. The fence had the power to keep out invading pests as well as humans, but let water and sunlight through - it was basically the perfect crop-guarding tool. The king said:
+The fence, all 4,000 magical yards of it, would be used to enclose the farmland on which the food was grown. The fence had the power to keep out invading pests as well as humans, but let water and sunlight through - it was basically the perfect crop-guarding tool. The king said:
 
 > "I need you knights to deploy this fence anywhere you want in this land in order to gain for us the largest possible food supply for the health and growth of the kingdom. As you do this, I’ll want you to keep track of the exact instructions for how you did this, so we can repeat the process in other parts of the kingdom, should more magical fence become available."
 
@@ -17,7 +17,7 @@ Then he left the knights to figure out how this was to be done. As the knights s
   - The 10,000 inhabitants of the city required 100 square yards of food each to produce their food
   - A plot of land had already been identified that was suitably large to accommodate any shape the fence would enclose
   - The fence could be bent but not torn (an existing door in the fence allowed for getting men and food in and out)
-  - It was a rectangle 1 yard high and 4000 yards long
+  - It was a rectangle 1 yard high and 4,000 yards long
   - It stood vertically without any other support, as long as it was on top of a layer of lodestone at least 1 inch wide
 
 The lead engineer, Seamus, upon understanding these constraints, and believing he understood what the king wanted said:
