@@ -21,6 +21,6 @@ There’s an old African proverb; “If you want to go fast, go alone; if you wa
 
 --
 
-Footnote: I’m actually very glad to be exiting the 35-39 age group with a time in the top 20% of my age group and top 13% overall. In many senses this is a personal best for me, even if not the fastest overall time. That’s a wonderful thing about triathlon- there are so many independent ways to improve! I almost think that improvement is automatic as a function of hours put in- “that which is measured, and focused upon- improves” So I’m glad I did not miss the chance to convert a few new folks, only to rise a few measly percent in overall standing - I'm not going pro any day, anyhow.
+Footnote: I’m actually very glad to have [these results](http://bit.ly/1AQCtD2),  exiting the 35-39 age group with a time in the top 20% of my age group and top 13% overall. In many senses this is a personal best for me, even if not the fastest overall time. That’s a wonderful thing about triathlon- there are so many independent ways to improve! I almost think that improvement is automatic as a function of hours put in- “that which is measured, and focused upon- improves” So I’m glad I did not miss the chance to convert a few new folks, only to rise a few measly percent in overall standing - I'm not going pro any day, anyhow.
 
 {% img https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10345763_10152300922172555_3487324894273276166_n.jpg 669 502 %}
