@@ -26,6 +26,4 @@ Our immediate future looks brighter than ever. APIs available to the mobile brow
 
 PS In full hand-waving manner, I’d like to debunk the myth that the Apple platform being based on Objective-C is about user experience. I don’t think it’s even about lock-in or lock-out. I think Jobs simply wanted to repeat the experience he had for NeXT, which was back in the day when you looked to the computer hardware vendor for the development environment for the platform. Without recognizing that a new de-facto standard solution had taken hold in the world (HTML, CSS, JS), he went on to create a microverse just for his products. Well, over 50% of programmers have never written Objective-C, and Swift isn’t going to change that. Apache Cordova has forced itself into the App Store, and there’s no going back, so raise a glass to the democratizing web! 
 
-
-
-
+Links: http://html5hub.com/html5-mobile-never-looked-so-good/
